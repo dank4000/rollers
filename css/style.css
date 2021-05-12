@@ -1,0 +1,88 @@
+.container {
+  padding-top: 100px;
+}
+
+body{
+  font-family: courier, monospace;
+  background-color: black;
+  color:greenyellow;
+  font-size: 18px;
+}
+
+body a {
+    color:greenyellow;
+    text-decoration: underline;
+}
+
+body a:hover {
+    color:greenyellow;
+  background-color: grey;
+}
+
+.menu {
+  display:none;
+  padding-top:20px;
+}
+
+.tech {
+  color: #ff7373;
+}
+
+.selection:hover {
+  background-color: grey;
+}
+
+.selected {
+  background-color: grey;
+}
+
+.portfolio {
+display: none;
+
+}
+
+.contactDetails {
+display: none;
+
+}
+
+.item {
+  border: 1px;
+  height: 400px;
+  width: 400px;
+  display: inline-block;
+}
+
+.real {
+  font-family: 'Pacifico', cursive;
+  font-size: 40px;
+}
+
+.pressEnter {
+  display:none;
+}
+
+.drugrun {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 40px;
+}
+
+.buffer {
+  margin-top: 40px;
+}
+
+.elfy {
+
+  color: red;
+  font-family: sniglet, sans-serif;
+}
+
+
+
+.elfy h1 {
+  font-size: 50px;
+}
+/*.reallinks:hover {
+
+  background-image: url("../img/reallinks.jpg")
+}*/
